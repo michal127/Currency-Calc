@@ -1,6 +1,6 @@
 ﻿namespace walutomat
 {
-    partial class Okno_główne
+    partial class Main_Window
     {
         /// <summary>
         /// Wymagana zmienna projektanta.
@@ -309,7 +309,7 @@
             this.buttonUSDrev.UseVisualStyleBackColor = true;
             this.buttonUSDrev.Click += new System.EventHandler(this.buttonUSDrev_Click);
             // 
-            // Okno_główne
+            // Main_Window
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -344,7 +344,7 @@
             this.Controls.Add(this.buttonEUR);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
-            this.Name = "Okno_główne";
+            this.Name = "Main_Window";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Currency Calculator";
             this.ResumeLayout(false);

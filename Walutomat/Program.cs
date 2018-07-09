@@ -16,7 +16,7 @@ namespace walutomat
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Okno_główne());
+            Application.Run(new Main_Window());
         }
     }
 }
