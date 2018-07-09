@@ -73,7 +73,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Functions.cs" />
+    <Compile Include="CurrencyValue.cs" />
     <Compile Include="Okno_główne.cs">
       <SubType>Form</SubType>
     </Compile>
